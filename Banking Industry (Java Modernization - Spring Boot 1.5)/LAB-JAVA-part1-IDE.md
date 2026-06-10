@@ -294,13 +294,4 @@ phase.
 ```
 ---
 
-## Wrap-up talk track
-- "We started by *understanding* a real Java 8 / Spring Boot 1.5 banking app, then
-  produced an honest *upgrade assessment* — the conversation our customers actually
-  need first."
-- "We built a *safety net* of tests, fixed *money-correctness and security* issues in
-  place, then *re-platformed* to Java 21 / Spring Boot 3 and *migrated* Oracle to
-  PostgreSQL — each step verifiable."
-- "Next, in Part 2, we switch to **Bob-CLI** to *operate on the repository*:
-  generate a runnable Java 21 / Spring Boot 3 service on PostgreSQL, build it, and
-  run it."
+

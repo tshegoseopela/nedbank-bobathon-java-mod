@@ -177,18 +177,6 @@ call GET /api/accounts/10 and GET /api/customers for me. Show the output.
 
 ---
 
-## Talk track (what to say while it runs)
-
-- "In Part 1 we used an agent in the IDE to *understand and reason about* a real
-  Java 8 / Spring Boot 1.5 banking application."
-- "Now I'll use an **agentic CLI** to *operate on the repository*: generate a Java 21
-  / Spring Boot 3 port, migrate `javax` to `jakarta`, wire it to a real **PostgreSQL**
-  container, and run it."
-- "This is the DevOps angle: namespace migration + dependency upgrade + money made
-  exact + a live database — executable proof, not slides."
-- "And notice — the legacy app needed Java 8 and Oracle. The modernized one runs on a
-  current JDK against throwaway Postgres. That's the business outcome."
-
 ---
 
 ## Troubleshooting (quick fixes)
